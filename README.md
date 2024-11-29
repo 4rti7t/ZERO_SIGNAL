@@ -3,7 +3,8 @@
 
 # **ZeroSignal** 🚨
 
-**ZeroSignal** ek **advanced** aur **stealth communication tool** hai, jo **server** aur **client** ke beech **secure** aur **encrypted** messages ko transmit karta hai. Yeh tool specially design kiya gaya hai taake aapka communication **private**, **undetectable**, aur **secure** rahe, chahe aap local network mein ho ya internet par.
+**ZeroSignal** ek **advanced** aur **stealth communication tool** hai, jo **server** aur **client** ke beech **secure** aur **encrypted** messages ko transmit karta hai. 
+Yeh tool specially design kiya gaya hai taake aapka communication **private**, **undetectable**, aur **secure** rahe, chahe aap local network mein ho ya internet par.
 
 ---
 
