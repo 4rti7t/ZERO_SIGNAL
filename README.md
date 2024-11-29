@@ -85,6 +85,7 @@ For any questions or support, feel free to contact us:
 
 ### **Disclaimer** ⚠️
 
-Please use **ZeroSignal** responsibly. Unauthorized use of this tool could be a violation of local laws and regulations. The creators of **ZeroSignal** are not responsible for any misuse or illegal activities.
+Please use **ZeroSignal** responsibly. Unauthorized use of this tool could be a violation of local laws and regulations. 
+The creators of **ZeroSignal** are not responsible for any misuse or illegal activities.
 
 ---
